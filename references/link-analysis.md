@@ -7,10 +7,10 @@
 
 ## Source Files
 
-- `../notes/parte-15.md`: PageRank basics, transition matrices, Markov chains, dead ends, spider traps
-- `../notes/parte-16.md`: scalable PageRank, sparse matrices, block-stripe partitioning, MapReduce
-- `../notes/parte-17.md`: topic-sensitive PageRank, link spam, spam farms, TrustRank, spam mass
-- `../notes/parte-18.md`: HITS, hubs and authorities, summary links to the rest of chapter 5
+- `../notes/parte-15-pagerank-foundations.md`: PageRank basics, transition matrices, Markov chains, dead ends, spider traps
+- `../notes/parte-16-scalable-pagerank-and-sparse-implementation.md`: scalable PageRank, sparse matrices, block-stripe partitioning, MapReduce
+- `../notes/parte-17-topic-sensitive-pagerank-and-link-spam.md`: topic-sensitive PageRank, link spam, spam farms, TrustRank, spam mass
+- `../notes/parte-18-hits-hubs-and-authorities.md`: HITS, hubs and authorities, summary links to the rest of chapter 5
 
 ## Common Asks
 
@@ -32,5 +32,6 @@
 - Do not confuse ranking tasks with community-detection tasks from graph mining.
 - `beta = 0.85` is a common default in the notes, not a universal law.
 - Some answers need both graph intuition and distributed execution details. Pull from foundations only if needed.
+
 
 

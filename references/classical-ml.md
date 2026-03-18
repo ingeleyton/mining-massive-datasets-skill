@@ -7,12 +7,12 @@
 
 ## Source Files
 
-- `../notes/parte-46.md`: supervised learning framing, training sets, batch vs online learning
-- `../notes/parte-47.md`: perceptron, Winnow, separability, parallel training
-- `../notes/parte-48.md`: SVM, margin, hinge loss, gradient descent, SGD
-- `../notes/parte-49.md`: k-NN, Voronoi diagrams, kernel regression, dimensionality issues
-- `../notes/parte-50.md`: decision trees, impurity, pruning, forests
-- `../notes/parte-51.md`: method comparison, overfitting, classifier tradeoffs
+- `../notes/parte-46-supervised-learning-introduction.md`: supervised learning framing, training sets, batch vs online learning
+- `../notes/parte-47-perceptron-winnow-and-svm-intro.md`: perceptron, Winnow, separability, parallel training
+- `../notes/parte-48-svm-and-nearest-neighbors-intro.md`: SVM, margin, hinge loss, gradient descent, SGD
+- `../notes/parte-49-knn-kernel-regression-and-decision-trees.md`: k-NN, Voronoi diagrams, kernel regression, dimensionality issues
+- `../notes/parte-50-decision-trees-and-forests.md`: decision trees, impurity, pruning, forests
+- `../notes/parte-51-comparing-learning-methods.md`: method comparison, overfitting, classifier tradeoffs
 
 ## Common Asks
 
@@ -35,5 +35,6 @@
 - `gradient descent` appears here and again in deep learning. Keep the model-specific context clear.
 - `parte-51` is best for method selection, not detailed derivations.
 - If the question is really about latent-factor models or neural nets, route out early.
+
 
 

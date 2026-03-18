@@ -1,8 +1,8 @@
-# Corpus Map
+﻿# Corpus Map
 
 ## Overview
 
-The repository contains `notes/parte-01.md` to `notes/parte-57.md`.
+The repository contains `notes/parte-01-data-mining-fundamentals.md` to `notes/parte-57-regularization-and-generalization.md`.
 Every file follows the same 15-section template, which makes the corpus easy to route if you avoid loading too much at once.
 
 ## Chapter Map
@@ -45,3 +45,4 @@ Each note exposes the same high-value sections:
 
 Open one domain reference first, then open the smallest set of matching source notes.
 If the domain is not obvious, run `scripts/find_corpus_notes.ps1`.
+

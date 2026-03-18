@@ -7,13 +7,13 @@
 
 ## Source Files
 
-- `../notes/parte-35.md`: social networks as graphs, locality, graph clustering framing
-- `../notes/parte-36.md`: betweenness, Girvan-Newman, community detection
-- `../notes/parte-37.md`: direct discovery of communities, bicliques, itemset-style graph mining
-- `../notes/parte-38.md`: graph partitioning, Laplacian, normalized cuts, overlap setup
-- `../notes/parte-39.md`: overlapping communities, MLE, SimRank, conductance
-- `../notes/parte-40.md`: triangle counting, heavy hitters, MapReduce multiway joins
-- `../notes/parte-41.md`: directed neighborhoods, transitive closure, SCC, ANF
+- `../notes/parte-35-social-graphs-and-locality.md`: social networks as graphs, locality, graph clustering framing
+- `../notes/parte-36-community-detection-and-girvan-newman.md`: betweenness, Girvan-Newman, community detection
+- `../notes/parte-37-direct-community-discovery-and-bicliques.md`: direct discovery of communities, bicliques, itemset-style graph mining
+- `../notes/parte-38-spectral-graph-partitioning.md`: graph partitioning, Laplacian, normalized cuts, overlap setup
+- `../notes/parte-39-overlapping-communities-and-simrank.md`: overlapping communities, MLE, SimRank, conductance
+- `../notes/parte-40-triangle-counting-and-graph-joins.md`: triangle counting, heavy hitters, MapReduce multiway joins
+- `../notes/parte-41-directed-graphs-reachability-and-scc.md`: directed neighborhoods, transitive closure, SCC, ANF
 
 ## Common Asks
 
@@ -34,5 +34,6 @@
 - Separate graph ranking from graph community detection.
 - Some overlap content in `parte-38` to `parte-39` is more advanced and less complete than the earlier notes. Say when the source is partial.
 - If the real issue is execution cost, pair this with distributed references only after choosing the graph task.
+
 
 

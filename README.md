@@ -1,4 +1,4 @@
-# Mining Massive Datasets
+﻿# Mining Massive Datasets
 
 Skill para estudio tecnico, navegacion del corpus y respuesta guiada sobre *Mining of Massive Datasets* usando referencias locales consolidadas y notas en Markdown. Convierte preguntas sobre `MapReduce`, `Spark`, `LSH`, `PageRank`, `Bloom filters`, `A-Priori`, `clustering`, `recommender systems`, `PCA`, `SVD`, `SVM`, `CNN`, `LSTM` y otros temas del libro en respuestas accionables, comparativas o explicativas con trazabilidad a las secciones consultadas.
 
@@ -236,3 +236,4 @@ Antes de hacer publico el repo, revisa estas piezas:
 3. Verificar que [SKILL.md](./SKILL.md), [agents/openai.yaml](./agents/openai.yaml), [references/corpus-map.md](./references/corpus-map.md) y [scripts/find_corpus_notes.ps1](./scripts/find_corpus_notes.ps1) esten visibles.
 4. Copiar o aplicar los topics sugeridos desde [.github/settings.yml](./.github/settings.yml).
 5. Confirmar que la skill se invoca como `$mining-massive-datasets`.
+

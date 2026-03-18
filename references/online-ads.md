@@ -7,8 +7,8 @@
 
 ## Source Files
 
-- `../notes/parte-28.md`: online advertising, greedy algorithms, competitive ratio, bipartite matching
-- `../notes/parte-29.md`: Adwords, Balance, generalized balance, ad-search implementation patterns
+- `../notes/parte-28-online-advertising-and-bipartite-matching.md`: online advertising, greedy algorithms, competitive ratio, bipartite matching
+- `../notes/parte-29-adwords-and-balance.md`: Adwords, Balance, generalized balance, ad-search implementation patterns
 
 ## Common Asks
 
@@ -27,5 +27,6 @@
 - `matching` here is online allocation, not entity resolution from similarity search.
 - Competitive guarantees depend on the online model assumptions.
 - Balance-style answers should mention the tradeoff between immediate gain and budget preservation.
+
 
 

@@ -7,10 +7,10 @@
 
 ## Source Files
 
-- `../notes/parte-42.md`: eigenpairs, symmetric matrices, power iteration, deflation
-- `../notes/parte-43.md`: PCA, principal components, geometric interpretation, SVD intro
-- `../notes/parte-44.md`: SVD, concept spaces, Frobenius norm, CUR intro
-- `../notes/parte-45.md`: CUR, sparse matrices, pseudoinverse, SVD vs CUR tradeoffs
+- `../notes/parte-42-eigenvalues-power-iteration-and-pca-intro.md`: eigenpairs, symmetric matrices, power iteration, deflation
+- `../notes/parte-43-pca-and-svd-introduction.md`: PCA, principal components, geometric interpretation, SVD intro
+- `../notes/parte-44-svd-and-cur-introduction.md`: SVD, concept spaces, Frobenius norm, CUR intro
+- `../notes/parte-45-cur-decomposition-and-sparse-matrices.md`: CUR, sparse matrices, pseudoinverse, SVD vs CUR tradeoffs
 
 ## Common Asks
 
@@ -32,5 +32,6 @@
 - Use UV for recommender-specific latent factors and PCA/SVD for general reduction unless the user explicitly bridges them.
 - CUR is especially useful when preserving sparsity or interpretability matters.
 - Some user questions that mention `factorization` actually belong in recommenders.
+
 
 

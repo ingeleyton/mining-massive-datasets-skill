@@ -7,11 +7,11 @@
 
 ## Source Files
 
-- `../notes/parte-07.md`: Jaccard, finding similar items, set and bag similarity
-- `../notes/parte-08.md`: shingling, k-shingles, MinHash, signature matrices
-- `../notes/parte-09.md`: banding, LSH thresholds, distance families
-- `../notes/parte-10.md`: LSH families for Hamming, cosine, and Euclidean distance
-- `../notes/parte-11.md`: entity resolution, fingerprints, stop-word shingles, prefix filtering
+- `../notes/parte-07-similarity-jaccard-and-shingling.md`: Jaccard, finding similar items, set and bag similarity
+- `../notes/parte-08-minhash-and-signature-matrices.md`: shingling, k-shingles, MinHash, signature matrices
+- `../notes/parte-09-lsh-banding-and-distance-measures.md`: banding, LSH thresholds, distance families
+- `../notes/parte-10-lsh-families-for-hamming-cosine-and-euclidean.md`: LSH families for Hamming, cosine, and Euclidean distance
+- `../notes/parte-11-entity-resolution-and-high-similarity-search.md`: entity resolution, fingerprints, stop-word shingles, prefix filtering
 
 ## Common Asks
 
@@ -32,5 +32,6 @@
 - `similarity` alone is too vague. Pin the representation first: set, bag, vector, or string.
 - Do not use LSH by default if the user needs exact answers or extremely high precision.
 - Banding advice depends on the similarity threshold, not only on dataset size.
+
 
 

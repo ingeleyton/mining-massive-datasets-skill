@@ -7,9 +7,9 @@
 
 ## Source Files
 
-- `../notes/parte-12.md`: stream model, sampling, standing vs ad-hoc queries, windows
-- `../notes/parte-13.md`: Bloom filters, Flajolet-Martin, AMS, DGIM
-- `../notes/parte-14.md`: decaying windows, DGIM extensions, frequent items in streams
+- `../notes/parte-12-stream-model-sampling-and-windows.md`: stream model, sampling, standing vs ad-hoc queries, windows
+- `../notes/parte-13-bloom-flajolet-martin-ams-and-dgim.md`: Bloom filters, Flajolet-Martin, AMS, DGIM
+- `../notes/parte-14-decaying-windows-and-frequent-items.md`: decaying windows, DGIM extensions, frequent items in streams
 
 ## Common Asks
 
@@ -29,5 +29,6 @@
 - `stream` may refer to a data-stream problem or stream clustering. Check the object type first.
 - Bloom filters answer membership, not distinct counts or exact frequency.
 - A `0`-error mindset is usually the wrong frame here. Start from the memory and error budget.
+
 
 

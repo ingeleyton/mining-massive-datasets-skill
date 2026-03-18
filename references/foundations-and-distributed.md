@@ -8,12 +8,12 @@
 
 ## Source Files
 
-- `../notes/parte-01.md`: Bonferroni, TF-IDF, hashing, storage cost, power laws
-- `../notes/parte-02.md`: DFS, cluster architecture, MapReduce basics, combiners, skew, fault tolerance
-- `../notes/parte-03.md`: relational algebra, matrix-vector and matrix-matrix multiplication in MapReduce
-- `../notes/parte-04.md`: Spark, RDDs, workflows, Pregel, BSP, TensorFlow
-- `../notes/parte-05.md`: communication-cost model, multiway joins, wall-clock tradeoffs
-- `../notes/parte-06.md`: MapReduce complexity, replication rate, reducer size, lower bounds
+- `../notes/parte-01-data-mining-fundamentals.md`: Bonferroni, TF-IDF, hashing, storage cost, power laws
+- `../notes/parte-02-mapreduce-basics-and-cluster-architecture.md`: DFS, cluster architecture, MapReduce basics, combiners, skew, fault tolerance
+- `../notes/parte-03-mapreduce-relational-algebra-and-matrix-ops.md`: relational algebra, matrix-vector and matrix-matrix multiplication in MapReduce
+- `../notes/parte-04-spark-pregel-and-distributed-workflows.md`: Spark, RDDs, workflows, Pregel, BSP, TensorFlow
+- `../notes/parte-05-communication-cost-and-multiway-joins.md`: communication-cost model, multiway joins, wall-clock tradeoffs
+- `../notes/parte-06-mapreduce-complexity-and-replication-rate.md`: MapReduce complexity, replication rate, reducer size, lower bounds
 
 ## Common Asks
 
@@ -35,5 +35,6 @@
 - Do not mix simple hash tables with MinHash or Bloom filters.
 - Do not answer Spark questions with pure MapReduce tradeoffs unless the user is explicitly comparing them.
 - When the user says `cost`, clarify whether they mean network communication, wall-clock time, or memory pressure.
+
 
 

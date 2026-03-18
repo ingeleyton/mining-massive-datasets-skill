@@ -7,10 +7,10 @@
 
 ## Source Files
 
-- `../notes/parte-24.md`: clustering basics, distances, curse of dimensionality, hierarchical clustering
-- `../notes/parte-25.md`: k-means, initialization, BFR, Mahalanobis distance
-- `../notes/parte-26.md`: CURE, GRGPF, non-Euclidean settings, representative points
-- `../notes/parte-27.md`: clustering for streams, MapReduce clustering, windowed settings
+- `../notes/parte-24-clustering-introduction-and-hierarchical-methods.md`: clustering basics, distances, curse of dimensionality, hierarchical clustering
+- `../notes/parte-25-k-means-and-bfr.md`: k-means, initialization, BFR, Mahalanobis distance
+- `../notes/parte-26-cure-grgpf-and-non-euclidean-clustering.md`: CURE, GRGPF, non-Euclidean settings, representative points
+- `../notes/parte-27-stream-and-mapreduce-clustering.md`: clustering for streams, MapReduce clustering, windowed settings
 
 ## Common Asks
 
@@ -32,5 +32,6 @@
 - Many methods here assume Euclidean geometry or Gaussian-style structure.
 - `stream` clustering is not the same as generic data-stream sketches.
 - If the user needs overlap or graph communities, switch to graph mining instead.
+
 
 

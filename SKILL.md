@@ -1,4 +1,4 @@
----
+﻿---
 name: mining-massive-datasets
 description: Answer, explain, compare, and implement topics from the Mining of Massive Datasets notes in this repository. Use when Codex needs repo-grounded help on machine learning, big data, statistics, MapReduce, Spark, LSH, PageRank, streams, frequent itemsets, clustering, online ads, recommender systems, graph mining, dimensionality reduction, classical ML, or deep learning, especially for study help, algorithm selection, pseudocode, Python examples, or routing a Spanish or English question to the relevant notes/parte-XX.md files.
 ---
@@ -7,7 +7,7 @@ description: Answer, explain, compare, and implement topics from the Mining of M
 
 ## Overview
 
-Use this skill as a router over the `notes/parte-01.md` to `notes/parte-57.md` notes in the current repository.
+Use this skill as a router over the `notes/parte-01-data-mining-fundamentals.md` to `notes/parte-57-regularization-and-generalization.md` notes in the current repository.
 The notes already follow a stable template, so the main job is not to memorize everything. The main job is to route the request to the smallest useful slice of the corpus, then answer from that slice.
 
 Prefer this skill when the user asks for:
@@ -102,3 +102,4 @@ Common bridges across the corpus:
 - similarity search + recommender systems
 
 When bridging, start with the primary task domain and pull only the minimum needed from the secondary domain.
+
