@@ -1,0 +1,19 @@
+repository:
+  description: "Codex skill and study notes for Mining of Massive Datasets, covering ML, big data, statistics, graph mining, recommender systems, dimensionality reduction, and deep learning."
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  topics:
+    - codex-skill
+    - openai
+    - openai-skill
+    - machine-learning
+    - big-data
+    - data-mining
+    - mapreduce
+    - mining-of-massive-datasets
+    - graph-mining
+    - recommender-systems
+    - dimensionality-reduction
+    - deep-learning
+    - study-notes

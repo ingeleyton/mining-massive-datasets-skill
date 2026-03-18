@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mining Massive Datasets"
+  short_description: "Repo grounded ML and big data guide"
+  default_prompt: "Use $mining-massive-datasets to answer this using the notes in the current repository."
