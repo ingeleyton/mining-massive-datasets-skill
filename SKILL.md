@@ -1,6 +1,14 @@
-﻿---
+---
 name: mining-massive-datasets
-description: Answer, explain, compare, and implement topics from the Mining of Massive Datasets notes in this repository. Use when Codex needs repo-grounded help on machine learning, big data, statistics, MapReduce, Spark, LSH, PageRank, streams, frequent itemsets, clustering, online ads, recommender systems, graph mining, dimensionality reduction, classical ML, or deep learning, especially for study help, algorithm selection, pseudocode, Python examples, or routing a Spanish or English question to the relevant notes/parte-XX.md files.
+description: >
+  Answer, explain, compare, and implement topics from the Mining of Massive
+  Datasets notes in this repository. Use when Codex needs repo-grounded help on
+  machine learning, big data, statistics, MapReduce, Spark, LSH, PageRank,
+  streams, frequent itemsets, clustering, online ads, recommender systems,
+  graph mining, dimensionality reduction, classical ML, or deep learning,
+  especially for study help, algorithm selection, pseudocode, Python examples,
+  or routing a Spanish or English question to the relevant
+  notes/parte-XX.md files.
 ---
 
 # Study Mining Massive Datasets
